@@ -1,1 +1,1 @@
-# slide_popup_js
+Slide and popup using Javascript.
